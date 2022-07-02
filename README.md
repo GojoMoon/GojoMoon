@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning programming
 - 💞️ I'm looking to collaborate on cybersecurity projects
 - 📫 How to reach me [@gojo_moon](https://twitter.com/gojo_moon)
+- 🤐 If you contact me please do so with [gpg](https://gojomoon.github.io/gojo.asc)
 
 <!---
 GojoMoon/GojoMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
