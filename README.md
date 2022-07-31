@@ -5,6 +5,7 @@
 - 📫 How to reach me [@gojo_moon](https://twitter.com/gojo_moon)
 - 🤐 If you contact me please do so with [gpg](https://gojomoon.github.io/gojo.asc)
 - 💻 My goal to become an expert in web hacking
+- 🌐 All my [networks](https://bio.link/gojomoon)
 
 <!---
 GojoMoon/GojoMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
