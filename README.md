@@ -7,6 +7,9 @@
 - 💻 My goal to become an expert in web hacking
 - 🌐 All my [networks](https://bio.link/gojomoon)
 
+
+<a href="ContactGojoSensei@proton.me" target="_blank"><img src="https://raw.githubusercontent.com/GojoMoon/GojoMoon/main/assets/github-contribution-grid-snake.svg" alt="snake"></a>
+
 <!---
 GojoMoon/GojoMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
